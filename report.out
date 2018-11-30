@@ -1,0 +1,61 @@
+\BOOKMARK [0][-]{chapter.1}{INTRODUCTION TO DATABASE MANAGEMENT SYSTEM}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{History of dbms }{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Applications of DBMS}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Requirement Analysis}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Hardware Requirements}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Software Requirements}{chapter.2}% 7
+\BOOKMARK [0][-]{chapter.3}{Database Design}{}% 8
+\BOOKMARK [1][-]{section.3.1}{ER Schema}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{Relational Schema}{chapter.3}% 10
+\BOOKMARK [0][-]{chapter.4}{DESCRIPTION OF TOOLS AND TECHNOLOGIES}{}% 11
+\BOOKMARK [1][-]{section.4.1}{Microsoft visual Studio}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.2}{Microsoft SQL server Management Studio Express}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.3}{NET Framework 4.5}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.4}{.NET Framework Structure}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.5}{The .NET Language}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.6}{The Connection object}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.7}{The command Object}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.8}{The Data Reader object}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.9}{Microsoft SQL Server}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{SQL Database Connectivity}{}% 21
+\BOOKMARK [1][-]{section.5.1}{The SqlConnection Object}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.2}{Creating a SqlConnection Object}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.3}{The SqlCommand Object}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.4}{Creating a SqlCommand Object}{chapter.5}% 25
+\BOOKMARK [0][-]{chapter.6}{Implementation}{}% 26
+\BOOKMARK [1][-]{section.6.1}{FORMS}{chapter.6}% 27
+\BOOKMARK [2][-]{subsection.6.1.1}{Home Page}{section.6.1}% 28
+\BOOKMARK [2][-]{subsection.6.1.2}{Book information}{section.6.1}% 29
+\BOOKMARK [2][-]{subsection.6.1.3}{Author page}{section.6.1}% 30
+\BOOKMARK [2][-]{subsection.6.1.4}{Genre page}{section.6.1}% 31
+\BOOKMARK [2][-]{subsection.6.1.5}{Award page}{section.6.1}% 32
+\BOOKMARK [2][-]{subsection.6.1.6}{Rating page}{section.6.1}% 33
+\BOOKMARK [2][-]{subsection.6.1.7}{Log page}{section.6.1}% 34
+\BOOKMARK [2][-]{subsection.6.1.8}{Insert page}{section.6.1}% 35
+\BOOKMARK [2][-]{subsection.6.1.9}{Delete page}{section.6.1}% 36
+\BOOKMARK [1][-]{section.6.2}{STORED PROCEDURES}{chapter.6}% 37
+\BOOKMARK [2][-]{subsection.6.2.1}{Book information related to a particular author}{section.6.2}% 38
+\BOOKMARK [2][-]{subsection.6.2.2}{Book information related to a particular award}{section.6.2}% 39
+\BOOKMARK [2][-]{subsection.6.2.3}{Book information related to a particular genre}{section.6.2}% 40
+\BOOKMARK [2][-]{subsection.6.2.4}{Book information based on rating}{section.6.2}% 41
+\BOOKMARK [2][-]{subsection.6.2.5}{Insert new book}{section.6.2}% 42
+\BOOKMARK [2][-]{subsection.6.2.6}{Delete book}{section.6.2}% 43
+\BOOKMARK [1][-]{section.6.3}{TRIGGER}{chapter.6}% 44
+\BOOKMARK [2][-]{subsection.6.3.1}{Log information of a book}{section.6.3}% 45
+\BOOKMARK [0][-]{chapter.7}{Snapshots}{}% 46
+\BOOKMARK [1][-]{section.7.1}{Home Page}{chapter.7}% 47
+\BOOKMARK [1][-]{section.7.2}{Book information}{chapter.7}% 48
+\BOOKMARK [1][-]{section.7.3}{Author Page}{chapter.7}% 49
+\BOOKMARK [1][-]{section.7.4}{Awards Page}{chapter.7}% 50
+\BOOKMARK [2][-]{subsection.7.4.1}{Select an award}{section.7.4}% 51
+\BOOKMARK [1][-]{section.7.5}{Genre Page}{chapter.7}% 52
+\BOOKMARK [1][-]{section.7.6}{Rating Page}{chapter.7}% 53
+\BOOKMARK [1][-]{section.7.7}{Read-now Page}{chapter.7}% 54
+\BOOKMARK [1][-]{section.7.8}{Insert Page}{chapter.7}% 55
+\BOOKMARK [2][-]{subsection.7.8.1}{Enter Information}{section.7.8}% 56
+\BOOKMARK [2][-]{subsection.7.8.2}{Book entered}{section.7.8}% 57
+\BOOKMARK [1][-]{section.7.9}{Delete Page}{chapter.7}% 58
+\BOOKMARK [2][-]{subsection.7.9.1}{Book deleted}{section.7.9}% 59
+\BOOKMARK [1][-]{section.7.10}{Trigger Page}{chapter.7}% 60
+\BOOKMARK [0][-]{chapter.8}{Conclusion and Future Enhancements}{}% 61

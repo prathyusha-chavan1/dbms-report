@@ -1,0 +1,19 @@
+\chapter{SQL Database Connectivity}
+\section{The SqlConnection Object}
+The first thing you will need to do when interacting with a database is to create a connection. The connection tells the rest of the .NET code which database it is talking to. It manages all of the low-level logic associated with the specific database protocols. This makes it easy for you because the most work you will have to do in code instantiates the connection object, open the connection, and then close the connection when you are done. 
+\section{Creating a SqlConnection Object}
+\begin{lstlisting}
+A SqlConnection is an object, just like any other C# object.  Most of the time, you just declare and instantiate the SqlConnection all at the same time, as shown below:
+SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security = True");
+The SqlConnection object instantiated above uses a constructor with a single argument of type string This argument is called a connection string.
+\end{lstlisting} 
+\section{The SqlCommand Object}
+A SqlCommand object allows you to specify what type of interaction you want to perform with a database. For example, you can do select, insert, modify, and delete commands on rows of data in a database table. The SqlCommand object can be used to support disconnected data management scenarios, but in this lesson, we will only use the SqlCommand object alone. A later lesson on the SqlDataAdapter will explain how to implement an application that uses disconnected data. This lesson will also show you how to retrieve a single value from a database, such as the number of records in a table. 
+\section{Creating a SqlCommand Object}
+\begin{lstlisting}
+Similar to other Csharp objects, you instantiate a Sql Command object via the new instance declaration, as follows:
+SqlCommand cmd = new SqlCommand("rating_sp", con);  
+The line above is typical for instantiating a Sql Command object. It takes a string parameter that holds the command you want to execute and a reference to a Sql Connection object.
+\end{lstlisting}
+
+

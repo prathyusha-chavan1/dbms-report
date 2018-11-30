@@ -1,0 +1,63 @@
+\thispagestyle {empty}
+\contentsline {chapter}{\numberline {1}INTRODUCTION TO DATABASE MANAGEMENT SYSTEM}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}History of dbms }{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Applications of DBMS}{3}{section.1.3}
+\contentsline {chapter}{\numberline {2}Requirement Analysis}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Hardware Requirements}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Software Requirements}{5}{section.2.2}
+\contentsline {chapter}{\numberline {3}Database Design}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}ER Schema}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Relational Schema}{7}{section.3.2}
+\contentsline {chapter}{\numberline {4}DESCRIPTION OF TOOLS AND TECHNOLOGIES}{8}{chapter.4}
+\contentsline {section}{\numberline {4.1}Microsoft visual Studio}{8}{section.4.1}
+\contentsline {section}{\numberline {4.2}Microsoft SQL server Management Studio Express}{8}{section.4.2}
+\contentsline {section}{\numberline {4.3}NET Framework 4.5}{9}{section.4.3}
+\contentsline {section}{\numberline {4.4}.NET Framework Structure}{9}{section.4.4}
+\contentsline {section}{\numberline {4.5}The .NET Language}{9}{section.4.5}
+\contentsline {section}{\numberline {4.6}The Connection object}{10}{section.4.6}
+\contentsline {section}{\numberline {4.7}The command Object}{10}{section.4.7}
+\contentsline {section}{\numberline {4.8}The Data Reader object}{10}{section.4.8}
+\contentsline {section}{\numberline {4.9}Microsoft SQL Server}{10}{section.4.9}
+\contentsline {chapter}{\numberline {5}SQL Database Connectivity}{12}{chapter.5}
+\contentsline {section}{\numberline {5.1}The SqlConnection Object}{12}{section.5.1}
+\contentsline {section}{\numberline {5.2}Creating a SqlConnection Object}{12}{section.5.2}
+\contentsline {section}{\numberline {5.3}The SqlCommand Object}{12}{section.5.3}
+\contentsline {section}{\numberline {5.4}Creating a SqlCommand Object}{12}{section.5.4}
+\contentsline {chapter}{\numberline {6}Implementation}{14}{chapter.6}
+\contentsline {section}{\numberline {6.1}FORMS}{14}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Home Page}{14}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Book information}{17}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Author page}{20}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Genre page}{23}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Award page}{25}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}Rating page}{27}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Log page}{29}{subsection.6.1.7}
+\contentsline {subsection}{\numberline {6.1.8}Insert page}{30}{subsection.6.1.8}
+\contentsline {subsection}{\numberline {6.1.9}Delete page}{32}{subsection.6.1.9}
+\contentsline {section}{\numberline {6.2}STORED PROCEDURES}{33}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Book information related to a particular author}{33}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Book information related to a particular award}{34}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Book information related to a particular genre}{34}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Book information based on rating}{34}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Insert new book}{34}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}Delete book}{35}{subsection.6.2.6}
+\contentsline {section}{\numberline {6.3}TRIGGER}{35}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Log information of a book}{35}{subsection.6.3.1}
+\contentsline {chapter}{\numberline {7}Snapshots}{37}{chapter.7}
+\contentsline {section}{\numberline {7.1}Home Page}{37}{section.7.1}
+\contentsline {section}{\numberline {7.2}Book information}{38}{section.7.2}
+\contentsline {section}{\numberline {7.3}Author Page}{39}{section.7.3}
+\contentsline {section}{\numberline {7.4}Awards Page}{40}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Select an award}{41}{subsection.7.4.1}
+\contentsline {section}{\numberline {7.5}Genre Page}{42}{section.7.5}
+\contentsline {section}{\numberline {7.6}Rating Page}{43}{section.7.6}
+\contentsline {section}{\numberline {7.7}Read-now Page}{44}{section.7.7}
+\contentsline {section}{\numberline {7.8}Insert Page}{45}{section.7.8}
+\contentsline {subsection}{\numberline {7.8.1}Enter Information}{46}{subsection.7.8.1}
+\contentsline {subsection}{\numberline {7.8.2}Book entered}{47}{subsection.7.8.2}
+\contentsline {section}{\numberline {7.9}Delete Page}{48}{section.7.9}
+\contentsline {subsection}{\numberline {7.9.1}Book deleted}{49}{subsection.7.9.1}
+\contentsline {section}{\numberline {7.10}Trigger Page}{50}{section.7.10}
+\contentsline {chapter}{\numberline {8}Conclusion and Future Enhancements}{51}{chapter.8}
+\contentsfinish 
